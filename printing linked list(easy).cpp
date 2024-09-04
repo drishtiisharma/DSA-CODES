@@ -26,6 +26,8 @@ int main(){
     
     cout<<"A linked list has been created."<<endl;
     cout<<"The linked list is: ";
+
+    //printing the linked list
     node *ptr=head;
     ptr=head;
     while(ptr!=NULL){
